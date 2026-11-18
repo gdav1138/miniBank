@@ -1,0 +1,15 @@
+C:\Users\sport\miniBank\miniBank\obj\Debug\net10.0\miniBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sport\miniBank\miniBank\obj\Debug\net10.0\miniBank.AssemblyInfoInputs.cache
+C:\Users\sport\miniBank\miniBank\obj\Debug\net10.0\miniBank.AssemblyInfo.cs
+C:\Users\sport\miniBank\miniBank\obj\Debug\net10.0\miniBank.csproj.CoreCompileInputs.cache
+C:\Users\sport\miniBank\miniBank\obj\Debug\net10.0\miniBank.sourcelink.json
+C:\Users\sport\miniBank\miniBank\bin\Debug\net10.0\miniBank.exe
+C:\Users\sport\miniBank\miniBank\bin\Debug\net10.0\miniBank.deps.json
+C:\Users\sport\miniBank\miniBank\bin\Debug\net10.0\miniBank.runtimeconfig.json
+C:\Users\sport\miniBank\miniBank\bin\Debug\net10.0\miniBank.dll
+C:\Users\sport\miniBank\miniBank\bin\Debug\net10.0\miniBank.pdb
+C:\Users\sport\miniBank\miniBank\obj\Debug\net10.0\miniBank.dll
+C:\Users\sport\miniBank\miniBank\obj\Debug\net10.0\refint\miniBank.dll
+C:\Users\sport\miniBank\miniBank\obj\Debug\net10.0\miniBank.pdb
+C:\Users\sport\miniBank\miniBank\obj\Debug\net10.0\miniBank.genruntimeconfig.cache
+C:\Users\sport\miniBank\miniBank\obj\Debug\net10.0\ref\miniBank.dll
